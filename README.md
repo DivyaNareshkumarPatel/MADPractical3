@@ -1,5 +1,8 @@
 # MAD Practical 3 : Create an android application which demonstrates implicit and explicit intent
-
+<div style="display: flex; justify-content: space-evenly;">
+  <img src="https://github.com/DivyaNareshkumarPatel/MADPractical3/blob/master/1.png" alt="Screenshot 1" width="250"/>
+  <img src="https://github.com/DivyaNareshkumarPatel/MADPractical3/blob/master/2.png" alt="Screenshot 2" width="250"/>
+</div>
 ## Overview
 
 The Android Utility App is a multi-functional application designed to enhance the user experience by offering a variety of useful features. This app provides seamless access to several native functionalities of an Android device, making it a one-stop solution for frequently used operations such as browsing the web, accessing the gallery, viewing the call log, opening the camera, setting alarms, making phone calls, and logging in through a custom login form.
