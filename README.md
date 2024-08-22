@@ -1,5 +1,5 @@
 # MAD Practical 3 : Create an android application which demonstrates implicit and explicit intent
-<div style="display: flex; justify-content: space-evenly; width:100%;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/DivyaNareshkumarPatel/MADPractical3/blob/master/1.png" alt="Screenshot 1" width="250"/>
   <img src="https://github.com/DivyaNareshkumarPatel/MADPractical3/blob/master/2.png" alt="Screenshot 2" width="250"/>
 </div>
